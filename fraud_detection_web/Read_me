@@ -1,0 +1,25 @@
+ # FRAUD DETECTION .
+
+# train_fraud_model.py
+# scikit-learn imports
+# upload the data
+# read data
+# explore the data 
+# Data Visulazation
+# analyzed the data set with the different charts
+# correlation matrix
+# Heat Map
+# Creating the model
+# drop unused columns
+# define features
+# train/test split (stratify to keep class balance)
+# preprocessing pipeline
+# full pipeline
+# fit the X_train, y_train
+# evaluate the model
+# save the model
+ 
+ 
+ # To start the model use this.
+#  streamlit run fraud_detection.py
+# http://localhost:8501
